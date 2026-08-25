@@ -1,3 +1,4 @@
+version: 2026.232.0520
 check-keepalive:
     candy:
         version: 2026.155.1526
